@@ -11,5 +11,6 @@ You are building the API for a **pizza-delivery company**.
 6. An API endpoint for the report of all orders.
 7. Validation of all the request methods.
 8. Image upload of every menu item.
+9. Make documentation of all the API endpoints.
 (Postman will be used for testing APIs, so make the postman collection and add it in the project folder then submit project to git).
 
